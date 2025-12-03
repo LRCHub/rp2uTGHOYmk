@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "あいつら全員同窓会",
+  "base_artist": "ZUTOMAYO",
+  "createdAt": "2025-12-03T06:32:25.123466Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/01_あいつら全員同窓会_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/02_あいつら全員同窓会_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/03_あいつら全員同窓会_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/04_あいつら全員同窓会_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会 - Inside Joke",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/05_あいつら全員同窓会_-_Inside_Joke_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会 (Instrumental)",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": true,
+      "path": "select/06_あいつら全員同窓会_(Instrumental)_ずっと真夜中でいいのに。.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会 - Inside Joke",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/07_あいつら全員同窓会_-_Inside_Joke_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/08_あいつら全員同窓会_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会 (Instrumental)",
+      "artist": "Zutomayo",
+      "has_synced": true,
+      "path": "select/09_あいつら全員同窓会_(Instrumental)_Zutomayo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ずっと真夜中でいいのに。『あいつら全員同窓会』MV (ZUTOMAYO - Inside Joke)",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/10_ずっと真夜中でいいのに。『あいつら全員同窓会』MV_(ZUTOMAYO_-_Inside_Joke)_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "あいつら全員同窓会 - 本格中華喫茶・愛のペガサス ~羅武の香辛龍~ 2024 / LIVE",
+      "artist": "ZUTOMAYO",
+      "has_synced": true,
+      "path": "select/11_あいつら全員同窓会_-_本格中華喫茶・愛のペガサス_~羅武の香辛龍~_2024___LIVE_ZUTOMAYO.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_01_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_02_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_03_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_04_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_05_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_06_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_07_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "あいつら全員同窓会",
+      "artist": "ずっと真夜中でいいのに。",
+      "has_synced": false,
+      "path": "select/pl_08_あいつら全員同窓会_ずっと真夜中でいいのに。.txt"
+    }
+  ]
+}
